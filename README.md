@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React JS, Flask, Express (JS), SQL, Sequelize, Python, Javascript, and SQLAlchemy**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASharfi13&show_icons=true&theme=transparent)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedsharfi) 
 
